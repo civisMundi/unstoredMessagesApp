@@ -1,0 +1,7 @@
+{
+  "name": "unstoredMsgs",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
