@@ -1,0 +1,3 @@
+export const PROFILE_LOGIN_REQUEST: string    = "PROFILE_LOGIN_REQUEST";
+export const PROFILE_LOGIN_SUCCESS: string    = "PROFILE_LOGIN_SUCCESS";
+export const PROFILE_LOGIN_FAILURE: string    = "PROFILE_LOGIN_FAILURE";
